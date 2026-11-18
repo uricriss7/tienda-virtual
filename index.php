@@ -272,6 +272,9 @@ $imagen = $imagenes[$producto["color"]] ?? "playera-blanca.jpg";
 
     <footer>
         <p>BLANK CO. | Todos los derechos reservados.</p>
+        <a href="usuarios/privacidad.php" class="text-white">
+    Aviso de privacidad
+</a>
     </footer>
 
 </body>
